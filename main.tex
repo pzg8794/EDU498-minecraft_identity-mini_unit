@@ -13,11 +13,19 @@
 \usepackage{setspace}
 \usepackage{tabularx}
 \usepackage{titlesec}
-\usepackage{xcolor}
+\usepackage[table]{xcolor}
 
 \definecolor{PrimaryRed}{HTML}{8B1E1E}
 \definecolor{SoftBlue}{HTML}{DDEEFF}
 \definecolor{DarkGray}{HTML}{333333}
+\definecolor{LessonOneSoft}{HTML}{EEF6F2}
+\definecolor{LessonOneAccent}{HTML}{3F6B57}
+\definecolor{LessonTwoSoft}{HTML}{EEF3FA}
+\definecolor{LessonTwoAccent}{HTML}{3D5F7F}
+\definecolor{LessonThreeSoft}{HTML}{FFF6E6}
+\definecolor{LessonThreeAccent}{HTML}{8A651E}
+\definecolor{AppendixSoft}{HTML}{F7F2FA}
+\definecolor{AppendixAccent}{HTML}{604A7B}
 
 \hypersetup{colorlinks=true,linkcolor=black,urlcolor=black,citecolor=black}
 \setlength{\parindent}{0pt}
@@ -25,6 +33,8 @@
 \titleformat{\section}{\large\bfseries\color{PrimaryRed}}{}{0em}{}
 \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.5em}{}
 \setstretch{1.12}
+\setlist[itemize]{topsep=2pt,itemsep=1pt}
+\setlist[enumerate]{topsep=2pt,itemsep=1pt}
 
 \begin{document}
 
@@ -102,9 +112,9 @@ This draft uses my Puzzle Plan and EQUITAS lenses to treat Minecraft Education a
 
 \textbf{Three-lesson Arc:}
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Lesson 1: Plan a Meaningful Place.} Choose a place concept, sketch it, name meaningful features, and begin one prototype.
-    \item \textbf{Lesson 2: Build and Debug.} Use Minecraft / MakeCode to build, test, revise, and add at least one coded or repeated design feature.
-    \item \textbf{Lesson 3: Share and Reflect.} Present the world, explain design choices, and respond to peer feedback.
+    \item \textcolor{LessonOneAccent}{\textbf{Lesson 1: Plan a Meaningful Place.}} Choose a place concept, sketch it, name meaningful features, and begin one prototype.
+    \item \textcolor{LessonTwoAccent}{\textbf{Lesson 2: Build and Debug.}} Use Minecraft / MakeCode to build, test, revise, and add at least one coded or repeated design feature.
+    \item \textcolor{LessonThreeAccent}{\textbf{Lesson 3: Share and Reflect.}} Present the world, explain design choices, and respond to peer feedback.
 \end{itemize}
 
 \section*{Source Trail and Rationale for the Pick}
@@ -124,6 +134,7 @@ Ethan's profile matters because the lesson can recognize him as a coder, designe
 >{\raggedright\arraybackslash}p{0.88\textwidth}
 }
 \toprule
+\rowcolor{SoftBlue}
 \textbf{Pursuit} & \textbf{How this draft addresses it} \\
 \midrule
 Joy & Students experience choice, visible progress, peer support, debugging as discovery, and the satisfaction of building something shareable. \\
@@ -173,6 +184,7 @@ Minecraft functions here as a text students author. They read digital space, ske
 >{\raggedright\arraybackslash}p{0.30\textwidth}
 }
 \toprule
+\rowcolor{LessonOneSoft}
 \textbf{Mins} & \textbf{Activity} & \textbf{Purpose} \\
 \midrule
 0--7 & Show a generic Minecraft structure and a meaningful place. Ask: ``What makes a place meaningful, not just well built?'' & Frames design as meaning-making. \\
@@ -211,6 +223,7 @@ Minecraft functions here as a text students author. They read digital space, ske
 >{\raggedright\arraybackslash}p{0.30\textwidth}
 }
 \toprule
+\rowcolor{LessonTwoSoft}
 \textbf{Mins} & \textbf{Activity} & \textbf{Purpose} \\
 \midrule
 0--8 & Revisit planning sheets and choose one ``must-build'' feature and one ``try-to-code'' feature. & Focuses students before building. \\
@@ -247,6 +260,7 @@ Minecraft functions here as a text students author. They read digital space, ske
 >{\raggedright\arraybackslash}p{0.30\textwidth}
 }
 \toprule
+\rowcolor{LessonThreeSoft}
 \textbf{Mins} & \textbf{Activity} & \textbf{Purpose} \\
 \midrule
 0--8 & Students prepare a two-sentence explanation and choose one screenshot or live view to show. & Supports concise presentation. \\
@@ -273,6 +287,7 @@ Minecraft functions here as a text students author. They read digital space, ske
 >{\raggedright\arraybackslash}p{0.38\textwidth}
 }
 \toprule
+\rowcolor{SoftBlue}
 \textbf{Criterion} & \textbf{Meeting} & \textbf{Developing} \\
 \midrule
 Meaningful design & World includes features connected to identity, community, belonging, or future possibility. & World has features, but the meaning needs clearer explanation. \\
@@ -293,6 +308,7 @@ Critical awareness & Student can name whose stories are represented and how a de
 >{\raggedright\arraybackslash}p{0.40\textwidth}
 }
 \toprule
+\rowcolor{AppendixSoft}
 \textbf{Planning card} & \textbf{Debug log} & \textbf{Share card} \\
 \midrule
 \textbullet\ My place is:\par
@@ -319,5 +335,52 @@ This mini-unit shows how digital literacy can become a space for belonging. Joy 
 Muhammad's identity pursuit helps frame the work as self-definition. Moje, Luke, Davies, and Street help ask what identity the task makes possible. Skerrett supports the idea that students can be repositioned as capable contributors. Moje's disciplinary literacy frame helps name coding, debugging, design, and explanation as literacy practices.
 
 For my own teaching, the most important design decision is that students are assessed on how intentionally they communicate meaning. That distinction matters for neurodivergent, culturally connected, multilingual, and mixed-identity students because it keeps literacy tied to agency. In this unit, joy is not separate from rigor: students still decompose, debug, revise, and explain, but those skills serve a world they care about.
+
+\newpage
+\section*{Appendix: Lesson Flow Figures}
+
+\textbf{Design note:} These figures make the lesson sequence visible for teachers and students. Each one separates the student path, teacher support, and evidence so the unit can be followed without holding every step in working memory.
+
+\begin{figure}[htbp]
+\centering
+\fcolorbox{LessonOneAccent}{LessonOneSoft}{%
+\begin{minipage}{0.93\textwidth}
+\textbf{\textcolor{LessonOneAccent}{Figure A1. Lesson 1 - Plan a Meaningful Place}}\\[0.05in]
+\small
+\begin{tabularx}{\textwidth}{>{\bfseries\raggedright\arraybackslash}p{0.22\textwidth} X}
+Student path & Notice meaningful design; choose a real, imagined, symbolic, or future place; sketch 3--5 features; begin one prototype; explain one choice. \\
+Teacher support & Model decomposition, protect private identity choices, offer role options, and keep the first build step visible. \\
+Evidence & Planning card, prototype or sketch, partner explanation, and exit slip. \\
+\end{tabularx}
+\end{minipage}}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\fcolorbox{LessonTwoAccent}{LessonTwoSoft}{%
+\begin{minipage}{0.93\textwidth}
+\textbf{\textcolor{LessonTwoAccent}{Figure A2. Lesson 2 - Build, Code, and Debug}}\\[0.05in]
+\small
+\begin{tabularx}{\textwidth}{>{\bfseries\raggedright\arraybackslash}p{0.22\textwidth} X}
+Student path & Choose one must-build feature and one try-to-code feature; build; test; notice a bug; revise; label what changed. \\
+Teacher support & Normalize debugging, conference with short prompts, and connect technical changes back to meaning. \\
+Evidence & Debug log, before/after note, screenshot label, and oral explanation. \\
+\end{tabularx}
+\end{minipage}}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\fcolorbox{LessonThreeAccent}{LessonThreeSoft}{%
+\begin{minipage}{0.93\textwidth}
+\textbf{\textcolor{LessonThreeAccent}{Figure A3. Lesson 3 - Share, Revise, and Reflect}}\\[0.05in]
+\small
+\begin{tabularx}{\textwidth}{>{\bfseries\raggedright\arraybackslash}p{0.22\textwidth} X}
+Student path & Prepare a two-sentence share; present the world; collect one notice/wonder; revise for welcome or clarity; write the final reflection. \\
+Teacher support & Provide sentence stems, protect choice, guide respectful feedback, and invite students to revise one small piece. \\
+Evidence & Final screenshot or live view, peer feedback note, revision note, and exit reflection. \\
+\end{tabularx}
+\end{minipage}}
+\end{figure}
 
 \end{document}
