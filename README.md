@@ -32,6 +32,15 @@ Students build understanding that code and design communicate meaning. They thin
 
 Students begin asking whose stories are represented in digital worlds, whose knowledge is missing, how technology can preserve or erase community stories, and what respectful use means when designing with cultural symbols, community knowledge, or shared histories.
 
+## Mini-Unit Packet Includes
+
+- Three concise lesson plans: plan, build/debug, share/reflect
+- Unit context and purpose
+- All five pursuits developed
+- Assessment criteria and evidence
+- Sample teacher model idea
+- Student-facing planning card, debug log, and share card
+
 ## Share the PDF
 
 - [View the PDF](main.pdf)
