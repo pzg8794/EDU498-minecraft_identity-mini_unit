@@ -1,4 +1,4 @@
-# EDU498 Class 7/8 Layered Genius Mini-Unit
+# EDU498 Layered Genius Mini-Unit
 
 **Designing a Minecraft World That Carries Identity and Community Knowledge**
 
@@ -10,9 +10,9 @@ Ethan comes from a Seneca family and is proud of his Haudenosaunee heritage. He 
 
 **Identity markers:** Indigenous (Seneca), aspiring computer scientist, technology-oriented, analytical, collaborative, community-minded, culturally connected, and creative problem-solver.
 
-## Class 8 Revision Focus
+## Revision Focus
 
-This version extends the Class 7 identity/joy mini-unit through the Class 8 pursuit of **Skills** and **disciplinary literacy**.
+This version extends the identity/joy mini-unit through the pursuit of **Skills** and **disciplinary literacy**.
 
 The revision adds:
 
@@ -34,7 +34,7 @@ Joy comes through choice, building, testing, debugging, peer support, visible pr
 
 ### Skills
 
-Students practice sequencing, decomposition, debugging, spatial reasoning, MakeCode / Minecraft Education tool use, planning before building, screenshot use, partner communication, and oral or written explanation. The Class 8 revision adds disciplinary writing through a short **Developer Design Note** in which students explain their design goal, build/code steps, debugging process, and how their world communicates meaning.
+Students practice sequencing, decomposition, debugging, spatial reasoning, MakeCode / Minecraft Education tool use, planning before building, screenshot use, partner communication, and oral or written explanation. The revision adds disciplinary writing through a short **Developer Design Note** in which students explain their design goal, build/code steps, debugging process, and how their world communicates meaning.
 
 ### Intellect
 
@@ -49,7 +49,7 @@ Students begin asking whose stories are represented in digital worlds, whose kno
 - Three concise lesson plans: plan, build/debug, share/reflect
 - Unit context and purpose
 - All five pursuits developed
-- Class 8 disciplinary literacy and writing extension
+- Disciplinary literacy and writing extension
 - CSTA and NYS standards alignment
 - Assessment criteria and evidence
 - Sample teacher model idea
