@@ -14,18 +14,18 @@ Identity markers: Indigenous (Seneca), aspiring computer scientist, technology-o
 
 ## Revision Focus
 
-This version extends the identity/joy/skills mini-unit through the pursuit of Intellect.
+This version extends the identity/joy/skills/intellect mini-unit through the pursuit of Criticality.
 
 The revision adds:
 
 - A revised CSTA learning pursuit aligned to CSTA 1B-AP-17.
 - A justice-oriented focus on Digital Representation and Access to Education.
-- Stronger student prompts for questioning, analyzing, and reflecting on digital representation and access.
-- A developed Intellect layer where students analyze how code, signs, paths, structures, colors, repeated patterns, and accessibility supports communicate meaning to an audience.
-- A clearer distinction between developed pursuits (Joy, Identity, Skills, Intellect) and Criticality as a brainstorm phase.
-- Stronger assessment language for intellectual analysis and audience-aware design.
+- Stronger student prompts for questioning, analyzing, and reflecting on digital representation, access, and missing stories.
+- A developed Criticality layer where students ask whose stories are represented, whose knowledge is missing, who benefits from certain representations, who may be harmed, and how technology can be redesigned toward access, respect, repair, and transformation.
+- A clearer connection between digital design choices and the power to include, exclude, preserve, erase, flatten, or repair community stories.
+- Stronger assessment language for criticality, representation, audience-aware design, and revision.
 
-## Brainstorm Area
+## Pursuits Area
 
 ### Identity
 
@@ -45,14 +45,13 @@ Students analyze how code and design communicate meaning. They think about how p
 
 ### Criticality
 
-Criticality remains in a brainstorm phase for this stage. Students begin asking whose stories are represented in digital worlds, whose knowledge is missing, how technology can preserve or erase community stories, and what respectful use means when designing with cultural symbols, community knowledge, or shared histories.
+Students question whose stories are represented in digital worlds, whose knowledge is missing, how technology can preserve or erase community stories, and what respectful use means when designing with cultural symbols, community knowledge, or shared histories. Students also revise one feature toward clarity, welcome, access, respect, or repair.
 
 ## Mini-Unit Packet Includes
 
-- Three concise lesson plans: plan, build/debug/analyze, share/reflect
+- Three concise lesson plans: plan, build/debug/analyze, share/reflect/revise
 - Unit context and purpose
-- Developed Joy, Identity, Skills, and Intellect
-- Criticality as brainstorm
+- Developed Joy, Identity, Skills, Intellect, and Criticality
 - Disciplinary literacy and writing extension
 - CSTA and NYS standards alignment
 - Assessment criteria and evidence
